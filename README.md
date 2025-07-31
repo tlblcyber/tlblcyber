@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tlblcyber/logo/main/logo.png" width="200" alt="TLBL Cyber Logo"/>
+  <img src="https://chillnexus.us/logo.png" width="200" alt="TLBL Cyber Logo"/>
 </p>
 
 <p align="center">
