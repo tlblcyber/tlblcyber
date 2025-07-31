@@ -13,21 +13,87 @@
 
 ---
 
-## 💀 WHO WE ARE
+## 🔥 PROJECTS — REAL TOOLS BY TLBL CYBER
 
-> **TLBL Cyber** is a digital strikeforce.  
-We create **interactive hacker-themed sites**, build **offensive cyber tools**, and design **visual systems** that simulate **cyber domination**.  
-You think it's a game — until your screen flickers with our signature.
+> We build and use **real tools** for hacking, recon, payload delivery, and automation.  
+> No fake UI. No simulation. **Pure offensive cyber tech.**
 
 ---
 
-## 🔥 PROJECTS
+### 🛠 PENETRATION & EXPLOITATION
 
-- 🎭 **Cyber Hack Simulator** — Fully immersive web simulation of a system breach
-- 🧠 **Terminal Intelligence** — Fake AI interface with command-line simulation
-- ☣️ **Visual Malware FX** — Animation + Sound attack packs for hacker aesthetics
-- 🎵 **Hacker Audio Pack** — Typing, alert, glitch, and threat ambiance SFX
-- 📁 **Payload Template Kits** — Prebuilt site structures for fast web injection
+- **🦠 TLBL Auto Exploit**  
+  Automated Python-based exploit runner. Supports metasploit modules, reverse shells, and payload injection. Built for rapid testing on local and external targets.
+
+- **🔧 TLBL Port & Vuln Scanner**  
+  Fast multithreaded scanner using Python + Nmap + custom banner grabbing. Identifies open ports, service versions, and common CVEs.
+
+- **📦 Payload Generator (TLBLPayload)**  
+  Cross-platform payload builder for Windows, Android, and Linux. Supports reverse shell, keylogger, persistence, and DNS beaconing.
+
+---
+
+### 🕵️‍♂️ OSINT / INFO GATHERING
+
+- **📡 TLBL Recon Tool**  
+  A powerful domain/email recon tool — extracts WHOIS, DNS, MX records, email leaks, social footprint, and location metadata.
+
+- **🕳 Deep Leak Finder**  
+  Finds breached credentials using custom scripts + API integrations with known darknet dump sources.
+
+- **🗃 Metadata Stripper / Extractor**  
+  Forensic tool to remove or extract EXIF & metadata from images, PDFs, documents — for both OPSEC and analysis.
+
+---
+
+### 📜 PHISHING / SOCIAL ENGINEERING
+
+- **🎭 TPhish — TLBL Phishing Kit**  
+  Real phishing page generator with support for:
+  - Facebook, Gmail, Instagram, PayPal, custom login pages  
+  - Browser fingerprinting  
+  - Telegram bot live capture  
+  - Geo-IP logging
+
+- **🔗 Shortlink Tracker**  
+  Tracks IP, OS, device, referer, browser, and more using obfuscated short URLs. Full logs sent to Telegram or webhook.
+
+- **📧 Email Copy UI + Auto Copy Script**  
+  Beautiful dark-style UI component to use in phishing sites — auto-copies email/password on click.
+
+---
+
+### 💻 SYSTEM / SCRIPTING TOOLS
+
+- **🧪 Account Checker (Multi-Service)**  
+  Python script to check login validity (email:pass) against common platforms (configurable APIs).
+
+- **🛠 Bash + Python Automation Scripts**  
+  - Auto SSH brute via Hydra  
+  - Wordlist generation using Crunch  
+  - Auto payload serve with Python HTTP server  
+  - Reverse shell quickdrop script
+
+---
+
+### 📀 OS / ENVIRONMENTS
+
+- **⚔️ TLBL OS (Coming Soon)**  
+  A lightweight Linux distro built on Debian with:
+  - Preinstalled hacking tools  
+  - Dark, terminal-style desktop environment  
+  - TLBL themes, sounds, and payload menus  
+  - Live boot or VM ready
+
+---
+
+### 🔊 AUDIO / VISUAL SUPPORT TOOLS
+
+- **🎵 Terminal Sound Pack**  
+  Typing FX, alarm triggers, CRT glitch — played via HTML/JS for demos or intimidation.
+
+- **📺 Visual Breach Launcher**  
+  One-click “you got hacked” animated HTML defacement page. Deployable instantly in red team operations.
 
 ---
 
